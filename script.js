@@ -36,18 +36,55 @@ $(function() {
 
   var songs = [
     {
-      artist: "Phương",
-      name: "Là Em",
-      url: "Musics/LaEm-Phuong.mp3",
-      picture: "./Background/IMG_5301.JPG"
+      artist: "Vũ",
+      name: "Chuyện Những Người Yêu Xa",
+      url: "Musics/ChuyenNhungNguoiYeuXa.flac",
+      picture: "./Background/backg.jpg"
     },
     {
-      artist: "Thịnh Suy",
-      name: "Nghe Em",
-      url: "Musics/NgheEm.mp3",
-      picture:
-        "./Background/IMG_5301.JPG"
+      artist: "Vũ",
+      name: "Do Ai",
+      url: "Musics/DoAi.flac",
+      picture: "./Background/backg.jpg"
     },
+    {
+      artist: "Vũ",
+      name: "Lạ Lùng",
+      url: "Musics/LaLung.flac",
+      picture: "./Background/backg.jpg"
+    },
+    {
+      artist: "Vũ",
+      name: "Mùa Mưa NgâU Nằm Cạnh",
+      url: "Musics/MuaMuaNgauNamCanh.flac",
+      picture: "./Background/backg.jpg"
+    },
+    {
+      artist: "Vũ",
+      name: "Đông Kiếm Em",
+      url: "Musics/DongKiemEm.flac",
+      picture: "./Background/backg.jpg"
+    },
+    {
+      artist: "Ly Ly",
+      name: "Đừng Lo Anh Đợi Mà",
+      url: "Musics/DungLoAnhDoiMa.mp3",
+      picture: "./Background/backg.jpg"
+    },
+    {
+      artist: "Vũ",
+      name: "Đã Từng Là",
+      url: "Musics/DaTungLa.flac",
+      picture: "./Background/backg.jpg"
+    },
+    {
+      artist: "Lã ft Duy Phúc ft Tib",
+      name: "Hẹn Em Kiếp Sau",
+      url: "Musics/HenEmKiepSau.mp3",
+      picture: "./Background/backg.jpg"
+    },
+
+
   ];
 
   function shuffle(a) {

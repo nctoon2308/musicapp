@@ -55,7 +55,7 @@ $(function() {
     },
     {
       artist: "Vũ",
-      name: "Mùa Mưa NgâU Nằm Cạnh",
+      name: "Mùa Mưa Ngâu Nằm Cạnh",
       url: "Musics/MuaMuaNgauNamCanh.flac",
       picture: "./Background/backg.jpg"
     },
